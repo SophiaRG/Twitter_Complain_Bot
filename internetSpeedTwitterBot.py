@@ -8,9 +8,9 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 PROMISED_DOWN = 100
 PROMISED_UP = 50
-TWITTER_EMAIL = "gorbsophia@gmail.com"
-TWITTER_PASSWORD = "Math:1+1=3"
-TWITTER_USERNAME = "@MilaSofia1991"
+TWITTER_EMAIL = "Your email"
+TWITTER_PASSWORD = "Your password"
+TWITTER_USERNAME = "Your username"
 
 class InternetSpeedTwitterBot :
 
